@@ -1,0 +1,12 @@
+Comandos:
+
+1. git status --> sirve para ver el estado del working directory.
+
+2. git add . --> sirve para agregar todo los archivos nuevos o modificados, al staging área
+
+3. git push origin main --> sirve para subir los cambios del repo local al repo remoto en la rama main.
+
+4. git pull --> sirve para traer todor los cambios del repo remoto al repo local.
+
+5. git switch develop --> permite cambiar a la rama indicada.
+

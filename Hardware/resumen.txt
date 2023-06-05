@@ -1,0 +1,7 @@
+Partes internas de la PC:
+
+1. CPU.
+
+2. Memoria RAM.
+
+3. Memoria ROM.
