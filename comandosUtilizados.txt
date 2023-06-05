@@ -1,0 +1,40 @@
+  498  ls
+  499  mkdir 20230605-HansUrpay
+  500  cd 20230605-HansUrpay/
+  501  cd ..
+  502  cd Documents/
+  503  cd Digital_House/Introduccion_a_la_informatica/B1/20230605-HansUrpay/
+  504  git remote add origin https://github.com/HansUrpay/20230605-HansUrpay.git
+  505  git remote add origin https://github.com/HansUrpay/20230605-HansUrpay.git
+  506  git init
+  507  git remote add origin https://github.com/HansUrpay/20230605-HansUrpay.git
+  508  touch comandos.txt main.js index.html
+  509  ls
+  510  ll
+  511  git add .
+  512  git commit -m "commit 1 de HansUrpay"
+  513  git push origin main
+  514  git checkout -b feature01
+  515  mkdir Terminal Hardware
+  516  ls
+  517  touch Hardware/resumen.txt Terminal/resumen.txt
+  518  ls -R
+  519  git add .
+  520  git commit -m "commit 2 de HansUrpay"
+  521  git push origin feature01
+  522  git checkout feature02
+  523  git checkout -b feature02
+  524  nano Terminal/resumen.txt 
+  525  cat Terminal/resumen.txt 
+  526  nano Terminal/resumen.txt 
+  527  nano Hardware/resumen.txt 
+  528  git add .
+  529  git commit -m "commit 3 de HansUrpay"
+  530  git push origin feature02
+  531  git branch 
+  532  git switch main 
+  533  ll -R
+  534  mv comandos.txt comandosUtilizados.txt 
+  535  ll
+  536  history 50
+  537  history 40 > comandosUtilizados.txt 
